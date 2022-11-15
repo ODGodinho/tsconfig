@@ -23,24 +23,15 @@
         "noImplicitThis": true,
         "noUnusedLocals": true,
         "noUnusedParameters": true,
-        "outDir": "./dist",
         "preserveConstEnums": true,
         "removeComments": true,
         "resolveJsonModule": true,
-        "rootDirs": [
-            ".",
-            "./src"
-        ],
         "sourceMap": true,
         "strict": true,
         "strictFunctionTypes": true,
         "strictNullChecks": true,
         "strictPropertyInitialization": true,
         "target": "es2018",
-        "typeRoots": [
-            "./src/@types",
-            "node_modules/@types"
-        ],
         "types": [
             "node",
             "jest"
