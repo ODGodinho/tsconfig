@@ -1,3 +1,6 @@
 {
-    "conventionalCommits.scopes": [ "Init" ]
+    "conventionalCommits.scopes": [
+        "Init",
+        "Documentation"
+    ]
 }

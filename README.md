@@ -62,6 +62,20 @@ yarn add @odg/tsconfig
 
 ```json
 {
-    "extends": "@odg/tsconfig/tsconfig.node.json"
+    "compilerOptions": {
+        "baseUrl": ".",
+        "outDir": "./dist",
+        "rootDirs": [
+            ".",
+            "./src"
+        ],
+        "typeRoots": [
+            "./src/@types",
+            "node_modules/@types"
+        ]
+    },
+    "exclude": [ "node_modules/" ],
+    "extends": "@odg/tsconfig/tsconfig.node.json",
+    "include": [ "." ]
 }
 ```
