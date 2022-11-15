@@ -1,0 +1,24 @@
+{
+    "name": "@odg/tsconfig",
+    "version": "0.1.0",
+    "description": "Only tsconfig file",
+    "scripts": {
+        "lint": "eslint .",
+        "lint:fix": "eslint . --fix"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ODGodinho/tsconfig.git"
+    },
+    "author": "Dragons Gamers <https://www.linkedin.com/in/victor-alves-odgodinho>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ODGodinho/tsconfig/issues"
+    },
+    "homepage": "https://github.com/ODGodinho/tsconfig#readme",
+    "devDependencies": {
+        "@odg/eslint-config": "*",
+        "eslint": "*",
+        "typescript": "*"
+    }
+}
