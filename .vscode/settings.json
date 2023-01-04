@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "Init",
-        "Documentation"
+        "Documentation",
+        "Deploy"
     ]
 }
