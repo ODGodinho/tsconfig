@@ -19,6 +19,7 @@
     "devDependencies": {
         "@odg/eslint-config": "*",
         "eslint": "*",
+        "semantic-release": "^19.0.5",
         "typescript": "*"
     }
 }
