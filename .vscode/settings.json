@@ -3,6 +3,7 @@
         "Init",
         "Documentation",
         "Deploy",
-        "Packages"
+        "Packages",
+        "Publish"
     ]
 }
