@@ -36,5 +36,8 @@
             "node",
             "jest"
         ]
+    },
+    "ts-node": {
+        "files": true
     }
 }
