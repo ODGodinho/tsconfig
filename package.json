@@ -50,7 +50,7 @@
     "devDependencies": {
         "@odg/eslint-config": "*",
         "eslint": "*",
-        "semantic-release": "^20.1.0",
+        "semantic-release": "^21.0.1",
         "typescript": "*"
     }
 }
