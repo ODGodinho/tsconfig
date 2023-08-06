@@ -1,6 +1,6 @@
 {
     "name": "@odg/tsconfig",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "description": "Only tsconfig file",
     "scripts": {
         "lint": "eslint --ext .js,.jsx,.ts,.tsx,.json,.jsonc,.json5,.yml,.yaml,.xml,.txt,.svg,.properties,.gradle,.java,.cpp,.c,.cs,.html,.css,.groovy,.gitignore,.npmignore,.toml,.env,.example,.sample,.ini,.php,.bat,.powershell,.ps1,.sh,.bash,.eslintrc",
@@ -50,7 +50,6 @@
     "devDependencies": {
         "@odg/eslint-config": "*",
         "eslint": "*",
-        "semantic-release": "^21.0.1",
         "typescript": "*"
     }
 }

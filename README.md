@@ -42,17 +42,17 @@
 
 ## 🖥 Libraries
 
-- [Node.js 16](https://nodejs.org/?n=dragonsgamers)
+- [Node.js 18](https://nodejs.org/?n=dragonsgamers)
 - [Typescript](https://www.typescriptlang.org/?n=dragonsgamers)
 - [Eslint](https://eslint.org/?n=dragonsgamers)
 - [ODG-Linter-JS](https://github.com/ODGodinho/ODG-Linter-Js?n=dragonsgamers)
 
 ## 📁 Dependencies
 
-- [Node.js](https://nodejs.org) 16 or later
+- [Node.js](https://nodejs.org) 18 or later
 - [Yarn](https://yarnpkg.com/) Optional/Recommended
 
-## ⬇️ Install
+## 🔽 Install
 
 ```powershell
 yarn add @odg/tsconfig
@@ -79,3 +79,7 @@ yarn add @odg/tsconfig
     "include": [ "." ]
 }
 ```
+
+### Recommended Node TSConfig settings
+
+<https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping>
