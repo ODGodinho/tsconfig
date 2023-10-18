@@ -33,10 +33,7 @@
         "strictNullChecks": true,
         "strictPropertyInitialization": true,
         "target": "ES2022",
-        "types": [
-            "node",
-            "jest"
-        ]
+        "types": [ "node" ]
     },
     "ts-node": {
         "files": true
